@@ -2,7 +2,7 @@
 
 Welcome on Wh1t3Rabyt3's Github profil.
 
-The goal is to share knwoledges.
+The goal is to share knowledge.
 
 Wh1t3Rabyt3 is:
   - a System & Network Administator
